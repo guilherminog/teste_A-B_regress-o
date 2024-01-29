@@ -27,6 +27,5 @@ Além disso, são realizados testes de significância para avaliar a relevância
    - Python 3.x
    - Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn
    
-2. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+2. **Colab:**
+   - Link: [regressao_modelos.py](https://colab.research.google.com/drive/1M2MSm-w9uWSPI8XD5bHhQSqZX8EAuIIb?usp=sharing)https://colab.research.google.com/drive/1M2MSm-w9uWSPI8XD5bHhQSqZX8EAuIIb?usp=sharing
